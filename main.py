@@ -7,3 +7,7 @@ print("test")
 my_list =[23,09,79]
 for num in my_list:
     print(num)
+
+my_list =[05,12,84]
+for num in my_list:
+    print(num)
